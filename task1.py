@@ -48,6 +48,7 @@ class D(B, C):
 
 d = D()
 
+
 """
 The expected output when an instance of class D is created is as follows:
 
